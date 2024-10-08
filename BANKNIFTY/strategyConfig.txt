@@ -1,0 +1,4 @@
+symbol1=BANKNIFTY_1414765800_FUT
+strike_gap=100
+strike_level=1
+weekely_expiry=1412951400

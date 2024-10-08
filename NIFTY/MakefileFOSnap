@@ -1,0 +1,2 @@
+compiling all:
+	g++ -O3 -L /home/dev/StrategyBoxCom -Wall -Winvalid-pch -o strategyFoSnap.out strategyConnector.cpp strategy.cpp -D__FOCONFIG__ -D__SNAPSTRAT__ -lStrategyFOSNAPUpdatedProd

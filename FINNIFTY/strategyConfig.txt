@@ -1,0 +1,4 @@
+symbol1=FINNIFTY_1414679400_FUT
+strike_gap=50
+strike_level=1
+weekely_expiry=1412865000

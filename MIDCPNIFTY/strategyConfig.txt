@@ -1,0 +1,4 @@
+symbol1=MIDCPNIFTY_1414593000_FUT
+strike_gap=25
+strike_level=1
+weekely_expiry=1413383400
